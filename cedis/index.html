@@ -727,7 +727,7 @@ select.form-input{cursor:pointer}
         <div class="chart-wrap-sm"><canvas id="chartStatus"></canvas></div>
         <div style="margin-top:14px">
           <div class="data-row"><span class="data-key">Pedido más grande</span><span class="data-val">$4,280 · Ana García R3</span></div>
-          <div class="data-row"><span class="data-key">SKU más pedido</span><span class="data-val">Gansito c/6 · 187 cajas</span></div>
+          <div class="data-row"><span class="data-key">SKU más pedido</span><span class="data-val">Tostadas Clásicas 50pz · 187 cajas</span></div>
           <div class="data-row"><span class="data-key">Ruta más activa</span><span class="data-val">Norte B · Luis R.</span></div>
           <div class="data-row"><span class="data-key">Hora pico</span><span class="data-val">9:00–10:30 AM</span></div>
         </div>
@@ -1687,8 +1687,8 @@ function renderAlerts() {
   const el = document.getElementById('alertsList');
   if (!el) return;
   const alerts = [
-    { type:'critical', title:'Gansito Lote A · vence en 36h', desc:'180 cajas · Asignar a Ruta Norte A prioritariamente' },
-    { type:'warning',  title:'Mantecadas · stock 2.1 días', desc:'Solicitar reposición a planta hoy' },
+    { type:'critical', title:'Tortillas Sin Conservadores · vence en 6 días', desc:'180 cajas · Asignar a Ruta Norte A prioritariamente' },
+    { type:'warning',  title:'Tostadas Clásicas 50pz · stock 2.1 días', desc:'Solicitar reposición a planta hoy' },
     { type:'warning',  title:'Carlos M. · 44 min sin pedido', desc:'Ruta Sur B · GPS en Abarrotes El Sol' },
   ];
   el.innerHTML = alerts.map(a => `
