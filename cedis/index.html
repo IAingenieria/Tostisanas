@@ -1217,7 +1217,7 @@ function handleIncomingMessage(data) {
       addFeedItem(`Check-in GPS: ${data.vendedor} en ${data.cliente}`, `Visita #${data.visitNum} · ${data.hora}`, 'blue');
       break;
     case 'PHOTO_UPLOADED':
-      addFeedItem(`Foto de anaquel subida: ${data.cliente}`, `Share Bimbo: ${data.share}% · ${data.skus} SKUs`, 'green');
+      addFeedItem(`Foto de anaquel subida: ${data.cliente}`, `Share Tostisanas: ${data.share}% · ${data.skus} SKUs`, 'green');
       break;
     case 'PING':
       lastSyncTime = Date.now();
@@ -1272,18 +1272,18 @@ const STATE = {
 
 // ══ DATA ═══════════════════════════════════════════
 const INVENTORY_DATA = [
-  { id:'gansito',     name:'Gansito c/6',          brand:'Bimbo',    stock:1840, available:1660, dias:9.2,  fefo:'ok',       lote:'2024-C · 12 días', buffer:8  },
-  { id:'pan_blanco',  name:'Pan Blanco Grande',     brand:'Bimbo',    stock:920,  available:840,  dias:4.1,  fefo:'ok',       lote:'2024-B · 5 días',  buffer:6  },
-  { id:'tortillinas', name:'Tortillinas Tía Rosa',  brand:'Bimbo',    stock:1240, available:1100, dias:5.8,  fefo:'ok',       lote:'2024-B · 6 días',  buffer:7  },
-  { id:'bimbollos',   name:'Bimbollos c/6',         brand:'Bimbo',    stock:680,  available:610,  dias:3.4,  fefo:'ok',       lote:'2024-C · 14 días', buffer:10 },
-  { id:'mantecadas',  name:'Mantecadas c/8',        brand:'Bimbo',    stock:420,  available:380,  dias:2.1,  fefo:'alert',    lote:'2024-A · 3 días',  buffer:5  },
-  { id:'donas',       name:'Donas Azúcar',          brand:'Bimbo',    stock:560,  available:500,  dias:2.8,  fefo:'alert',    lote:'2024-B · 4 días',  buffer:12 },
-  { id:'panque',      name:'Panqué Vainilla',       brand:'Bimbo',    stock:380,  available:340,  dias:3.2,  fefo:'ok',       lote:'2024-C · 18 días', buffer:8  },
-  { id:'wonder',      name:'Wonder Blanco',         brand:'Wonder',   stock:760,  available:700,  dias:4.8,  fefo:'ok',       lote:'2024-B · 7 días',  buffer:6  },
-  { id:'choco_roles', name:'Choco Roles',           brand:'Marinela', stock:480,  available:420,  dias:2.4,  fefo:'alert',    lote:'2024-A · 2 días',  buffer:15 },
-  { id:'gansito_lote2',name:'Gansito c/6 (lote A)',brand:'Bimbo',    stock:180,  available:180,  dias:0.9,  fefo:'critical', lote:'2024-A · 36 HORAS',buffer:8 },
-  { id:'barritas',    name:'Barritas Marinela',     brand:'Marinela', stock:280,  available:260,  dias:1.4,  fefo:'critical', lote:'2024-A · 1.5 días',buffer:15 },
-  { id:'roles_canela',name:'Roles de Canela',       brand:'Bimbo',    stock:320,  available:290,  dias:4.1,  fefo:'ok',       lote:'2024-C · 16 días', buffer:10 },
+  { id:'tm001',       name:'Tortillas Maíz Blanco 1kg',     brand:'Tostisanas', stock:1840, available:1660, dias:12.0, fefo:'ok',       lote:'2024-C · 12 días', buffer:8  },
+  { id:'ts001-50',    name:'Tostadas Clásicas 50pz',        brand:'Tostisanas', stock:920,  available:840,  dias:85.0, fefo:'ok',       lote:'2024-B · 85 días', buffer:6  },
+  { id:'th001',       name:'Tortillas Harina Tradicional',  brand:'Tostisanas', stock:1240, available:1100, dias:18.0, fefo:'ok',       lote:'2024-B · 18 días', buffer:7  },
+  { id:'bo001',       name:'Totopos Naturales 250g',        brand:'Tostisanas', stock:680,  available:610,  dias:110.0,fefo:'ok',       lote:'2024-C · 110 días',buffer:10 },
+  { id:'ts002-50',    name:'Tostadas Horneadas 50pz',       brand:'Tostisanas', stock:420,  available:380,  dias:2.1,  fefo:'alert',    lote:'2024-A · 3 días',  buffer:5  },
+  { id:'ti001',       name:'Tortillas Integrales Trigo',    brand:'Tostisanas', stock:560,  available:500,  dias:2.8,  fefo:'alert',    lote:'2024-B · 4 días',  buffer:12 },
+  { id:'bc001',       name:'Tortillas Keto Original',       brand:'Tostisanas', stock:380,  available:340,  dias:22.0, fefo:'ok',       lote:'2024-C · 22 días', buffer:8  },
+  { id:'tm002',       name:'Tortillas Maíz Amarillo 1kg',   brand:'Tostisanas', stock:760,  available:700,  dias:13.0, fefo:'ok',       lote:'2024-B · 13 días', buffer:6  },
+  { id:'ts003-50',    name:'Tostadas Maíz Azul 50pz',       brand:'Tostisanas', stock:480,  available:420,  dias:2.4,  fefo:'alert',    lote:'2024-A · 2 días',  buffer:15 },
+  { id:'tm008',       name:'Tortillas Sin Conservadores',   brand:'Tostisanas', stock:180,  available:180,  dias:6.0,  fefo:'critical', lote:'2024-A · 6 DÍAS',  buffer:8  },
+  { id:'bo002',       name:'Totopos con Sal 250g',          brand:'Tostisanas', stock:280,  available:260,  dias:1.4,  fefo:'critical', lote:'2024-A · 1.5 días',buffer:15 },
+  { id:'th002',       name:'Tortillas Harina Sobaqueras',   brand:'Tostisanas', stock:320,  available:290,  dias:17.0, fefo:'ok',       lote:'2024-C · 17 días', buffer:10 },
 ];
 
 const ROUTES_DATA = [
