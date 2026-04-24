@@ -1120,12 +1120,12 @@ select.form-input{cursor:pointer}
   <div class="modal">
     <div class="modal-title">⚠️ Alertas activas</div>
     <div class="modal-sub">3 alertas requieren atención inmediata</div>
-    <div class="alert-item critical"><span style="font-size:16px">🔴</span><div><div class="ai-title">Gansito c/6 · Lote 2024-A vence en 36 horas</div><div class="ai-desc">180 cajas · Asignar prioritariamente a Ruta Norte A (mayor volumen del SKU). Merma potencial: $33,300 MXN.</div></div></div>
+    <div class="alert-item critical"><span style="font-size:16px">🔴</span><div><div class="ai-title">Tortillas de Maíz Sin Conservadores · Lote 2024-A vence en 6 días</div><div class="ai-desc">180 cajas · Asignar prioritariamente a Ruta Norte A (mayor volumen del SKU). Merma potencial: $75,600 MXN.</div></div></div>
     <div class="alert-item warning"><span style="font-size:16px">⚠️</span><div><div class="ai-title">Ruta Norte B · Carlos M. lleva 44 min sin pedido</div><div class="ai-desc">Abarrotes El Sol · GPS confirmó check-in pero sin confirmación de pedido. Requiere contacto del supervisor.</div></div></div>
-    <div class="alert-item warning"><span style="font-size:16px">⚠️</span><div><div class="ai-title">Mantecadas c/8 · Stock bajo — 2.1 días</div><div class="ai-desc">Inventario: 420 cajas · Demanda proyectada: 200 cajas/día. Solicitar reposición a planta hoy.</div></div></div>
+    <div class="alert-item warning"><span style="font-size:16px">⚠️</span><div><div class="ai-title">Tostadas Clásicas 50pz · Stock bajo — 2.1 días</div><div class="ai-desc">Inventario: 420 cajas · Demanda proyectada: 200 cajas/día. Solicitar reposición a planta hoy.</div></div></div>
     <div class="modal-actions">
       <button class="btn-topbar btn-secondary" onclick="closeModal('modalAlerta')">Cerrar</button>
-      <button class="btn-topbar btn-primary" onclick="closeModal('modalAlerta');showToastMsg('✅ Alerta de Gansito escalada al gerente de bodega')">Escalar a bodega</button>
+      <button class="btn-topbar btn-primary" onclick="closeModal('modalAlerta');showToastMsg('✅ Alerta de Tortillas escalada al gerente de bodega')">Escalar a bodega</button>
     </div>
   </div>
 </div>
@@ -1153,10 +1153,10 @@ select.form-input{cursor:pointer}
     <div class="form-group">
       <label class="form-label">SKU principal</label>
       <select class="form-input">
-        <option>Gansito c/6 · $185/caja</option>
-        <option>Pan Blanco Grande · $140/caja</option>
-        <option>Tortillinas Tía Rosa · $95/caja</option>
-        <option>Bimbollos c/6 · $110/caja</option>
+        <option>Tortillas de Maíz Blanco · $342/caja</option>
+        <option>Tostadas Clásicas 50pz · $336/caja</option>
+        <option>Tortillas de Harina Tradicional · $384/caja</option>
+        <option>Totopos Naturales · $336/caja</option>
       </select>
     </div>
     <div class="form-group">
@@ -1308,9 +1308,9 @@ const INITIAL_ORDERS = [
 const INITIAL_FEED = [
   { title:'Pedido confirmado · Ana G.', sub:'Abarrotes La Paz · $2,840 · 18 cajas', color:'#0F6E56', time:'10:12', isNew:false },
   { title:'Check-in GPS · Luis R.', sub:'Fonda Doña Lupita · Ruta Norte B', color:'#185FA5', time:'10:18', isNew:false },
-  { title:'Foto de anaquel · Ana G.', sub:'Share Bimbo 54% · 15 SKUs detectados', color:'#534AB7', time:'10:22', isNew:false },
+  { title:'Foto de anaquel · Ana G.', sub:'Share Tostisanas 62% · 15 SKUs detectados', color:'#534AB7', time:'10:22', isNew:false },
   { title:'Cobro registrado · Diana P.', sub:'Minisuper El Roble · $3,200 efectivo', color:'#BA7517', time:'10:28', isNew:false },
-  { title:'Alerta FEFO · Bodega', sub:'Gansito Lote A · 180 cajas vencen en 36h', color:'#E24B4A', time:'10:30', isNew:false },
+  { title:'Alerta FEFO · Bodega', sub:'Tortillas Sin Conservadores Lote A · 180 cajas vencen en 6 días', color:'#E24B4A', time:'10:30', isNew:false },
   { title:'Pedido confirmado · Luis R.', sub:'Abarrotes Don Roberto · $1,580 · quincena', color:'#0F6E56', time:'10:38', isNew:true },
   { title:'Sync completado · Norte B', sub:'3 pedidos subidos · latencia 124ms', color:'#185FA5', time:'10:41', isNew:true },
 ];
