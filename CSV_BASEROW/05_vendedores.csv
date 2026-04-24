@@ -1,0 +1,7 @@
+id,nombre,apellidos,iniciales,telefono,email,ruta_asignada,cedis,fecha_ingreso,estatus,meta_mensual,venta_acumulada,porcentaje_meta,clientes_asignados,clientes_visitados_hoy,puntos_gamificacion,nivel,color_avatar
+1,Ana,García,AG,8198765001,ana.garcia@tostisanas.com,Norte A,Guadalajara Centro,2024-01-15,activo,180000,221000,122.78,30,19,6240,5,#1D9E75
+2,Luis,Rodríguez,LR,8198765002,luis.rodriguez@tostisanas.com,Centro A,Guadalajara Centro,2023-08-20,activo,175000,198000,113.14,30,13,4820,4,#185FA5
+3,Carlos,Martínez,CM,8198765003,carlos.martinez@tostisanas.com,Sur A,Guadalajara Centro,2025-02-10,activo,160000,141000,88.13,30,11,2840,3,#E24B4A
+4,Marco,Torres,MT,8198765004,marco.torres@tostisanas.com,Norte B,Guadalajara Centro,2024-06-05,activo,170000,162000,95.29,30,17,3890,4,#534AB7
+5,Diana,Pérez,DP,8198765005,diana.perez@tostisanas.com,Centro B,Guadalajara Centro,2024-03-12,activo,175000,187000,106.86,30,16,4410,4,#BA7517
+6,Jorge,Ruiz,JR,8198765006,jorge.ruiz@tostisanas.com,Sur B,Guadalajara Centro,2024-09-18,activo,165000,157000,95.15,30,14,3210,3,#993C1D

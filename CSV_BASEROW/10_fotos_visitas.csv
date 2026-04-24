@@ -1,0 +1,13 @@
+id,pedido_id,numero_pedido,cliente_id,cliente_nombre,vendedor_id,tipo_foto,descripcion,fecha_hora,latitud,longitud,cumple_protocolo,url_foto
+1,1,P-1001,1,Abarrotes Don Roberto,2,fachada,Foto de fachada del negocio,2026-04-23 08:15,25.6866,-100.3161,true,https://storage.tostisanas.com/fotos/P1001_fachada.jpg
+2,1,P-1001,1,Abarrotes Don Roberto,2,exhibidor,Exhibidor principal con productos,2026-04-23 08:16,25.6866,-100.3161,true,https://storage.tostisanas.com/fotos/P1001_exhibidor.jpg
+3,1,P-1001,1,Abarrotes Don Roberto,2,anaquel,Anaquel completo con detección IA,2026-04-23 08:17,25.6866,-100.3161,true,https://storage.tostisanas.com/fotos/P1001_anaquel.jpg
+4,1,P-1001,1,Abarrotes Don Roberto,2,firma,Firma digital del cliente,2026-04-23 08:18,25.6866,-100.3161,true,https://storage.tostisanas.com/fotos/P1001_firma.jpg
+5,2,P-1002,2,Farmacia San José,2,fachada,Foto de fachada del negocio,2026-04-23 08:42,25.6892,-100.3145,true,https://storage.tostisanas.com/fotos/P1002_fachada.jpg
+6,2,P-1002,2,Farmacia San José,2,exhibidor,Exhibidor principal con productos,2026-04-23 08:43,25.6892,-100.3145,true,https://storage.tostisanas.com/fotos/P1002_exhibidor.jpg
+7,2,P-1002,2,Farmacia San José,2,anaquel,Anaquel completo con detección IA,2026-04-23 08:44,25.6892,-100.3145,true,https://storage.tostisanas.com/fotos/P1002_anaquel.jpg
+8,2,P-1002,2,Farmacia San José,2,firma,Firma digital del cliente,2026-04-23 08:45,25.6892,-100.3145,true,https://storage.tostisanas.com/fotos/P1002_firma.jpg
+9,3,P-1003,3,Fonda Doña Lupita,2,fachada,Foto de fachada del negocio,2026-04-23 09:18,25.6845,-100.3178,true,https://storage.tostisanas.com/fotos/P1003_fachada.jpg
+10,3,P-1003,3,Fonda Doña Lupita,2,exhibidor,Exhibidor principal con productos,2026-04-23 09:19,25.6845,-100.3178,true,https://storage.tostisanas.com/fotos/P1003_exhibidor.jpg
+11,3,P-1003,3,Fonda Doña Lupita,2,anaquel,Anaquel completo con detección IA,2026-04-23 09:20,25.6845,-100.3178,true,https://storage.tostisanas.com/fotos/P1003_anaquel.jpg
+12,3,P-1003,3,Fonda Doña Lupita,2,firma,Firma digital del cliente,2026-04-23 09:21,25.6845,-100.3178,true,https://storage.tostisanas.com/fotos/P1003_firma.jpg

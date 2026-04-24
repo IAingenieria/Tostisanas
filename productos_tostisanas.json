@@ -1,0 +1,868 @@
+{
+  "metadata": {
+    "empresa": "Tostisanas",
+    "version": "1.1",
+    "fecha_actualizacion": "2026-04-23",
+    "total_productos": 64,
+    "categorias": 6,
+    "nota": "Tostadas con 3 presentaciones: 30, 50 y 90 piezas"
+  },
+  "categorias": [
+    {
+      "id": "cat-001",
+      "nombre": "Tortillas de Maíz",
+      "descripcion": "Tortillas tradicionales de maíz nixtamalizado",
+      "productos": [
+        {
+          "sku": "TM-001",
+          "nombre": "Tortillas de Maíz Blanco",
+          "presentacion": "1 kg (aprox. 30 pzas)",
+          "precio_unitario": 28.50,
+          "precio_caja": 342.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 15,
+          "peso_kg": 1.0,
+          "codigo_barras": "7501234567001",
+          "imagen": "tortilla_maiz_blanco.jpg"
+        },
+        {
+          "sku": "TM-002",
+          "nombre": "Tortillas de Maíz Amarillo",
+          "presentacion": "1 kg (aprox. 30 pzas)",
+          "precio_unitario": 28.50,
+          "precio_caja": 342.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 15,
+          "peso_kg": 1.0,
+          "codigo_barras": "7501234567002",
+          "imagen": "tortilla_maiz_amarillo.jpg"
+        },
+        {
+          "sku": "TM-003",
+          "nombre": "Tortillas de Maíz Azul",
+          "presentacion": "500 g (aprox. 15 pzas)",
+          "precio_unitario": 32.00,
+          "precio_caja": 384.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 15,
+          "peso_kg": 0.5,
+          "codigo_barras": "7501234567003",
+          "imagen": "tortilla_maiz_azul.jpg"
+        },
+        {
+          "sku": "TM-004",
+          "nombre": "Tortillas de Maíz Rojo",
+          "presentacion": "500 g (aprox. 15 pzas)",
+          "precio_unitario": 32.00,
+          "precio_caja": 384.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 15,
+          "peso_kg": 0.5,
+          "codigo_barras": "7501234567004",
+          "imagen": "tortilla_maiz_rojo.jpg"
+        },
+        {
+          "sku": "TM-005",
+          "nombre": "Tortillas de Maíz Mini",
+          "presentacion": "500 g (aprox. 40 pzas)",
+          "precio_unitario": 26.00,
+          "precio_caja": 312.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 15,
+          "peso_kg": 0.5,
+          "codigo_barras": "7501234567005",
+          "imagen": "tortilla_maiz_mini.jpg"
+        },
+        {
+          "sku": "TM-006",
+          "nombre": "Tortillas de Maíz Jumbo",
+          "presentacion": "1 kg (aprox. 20 pzas)",
+          "precio_unitario": 32.00,
+          "precio_caja": 384.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 15,
+          "peso_kg": 1.0,
+          "codigo_barras": "7501234567006",
+          "imagen": "tortilla_maiz_jumbo.jpg"
+        },
+        {
+          "sku": "TM-007",
+          "nombre": "Tortillas de Maíz Orgánico",
+          "presentacion": "750 g (aprox. 22 pzas)",
+          "precio_unitario": 42.00,
+          "precio_caja": 504.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 12,
+          "peso_kg": 0.75,
+          "codigo_barras": "7501234567007",
+          "imagen": "tortilla_maiz_organico.jpg"
+        },
+        {
+          "sku": "TM-008",
+          "nombre": "Tortillas de Maíz Sin Conservadores",
+          "presentacion": "1 kg (aprox. 30 pzas)",
+          "precio_unitario": 35.00,
+          "precio_caja": 420.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 7,
+          "peso_kg": 1.0,
+          "codigo_barras": "7501234567008",
+          "imagen": "tortilla_maiz_sin_conservadores.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cat-002",
+      "nombre": "Tortillas de Harina",
+      "descripcion": "Tortillas suaves de harina de trigo",
+      "productos": [
+        {
+          "sku": "TH-001",
+          "nombre": "Tortillas de Harina Tradicional",
+          "presentacion": "500 g (10 pzas)",
+          "precio_unitario": 32.00,
+          "precio_caja": 384.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 20,
+          "peso_kg": 0.5,
+          "codigo_barras": "7501234568001",
+          "imagen": "tortilla_harina_tradicional.jpg"
+        },
+        {
+          "sku": "TH-002",
+          "nombre": "Tortillas de Harina Sobaqueras",
+          "presentacion": "750 g (8 pzas)",
+          "precio_unitario": 38.00,
+          "precio_caja": 456.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 20,
+          "peso_kg": 0.75,
+          "codigo_barras": "7501234568002",
+          "imagen": "tortilla_harina_sobaquera.jpg"
+        },
+        {
+          "sku": "TH-003",
+          "nombre": "Tortillas de Harina Mini",
+          "presentacion": "400 g (16 pzas)",
+          "precio_unitario": 28.00,
+          "precio_caja": 336.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 20,
+          "peso_kg": 0.4,
+          "codigo_barras": "7501234568003",
+          "imagen": "tortilla_harina_mini.jpg"
+        },
+        {
+          "sku": "TH-004",
+          "nombre": "Tortillas de Harina Burrito",
+          "presentacion": "600 g (6 pzas)",
+          "precio_unitario": 36.00,
+          "precio_caja": 432.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 20,
+          "peso_kg": 0.6,
+          "codigo_barras": "7501234568004",
+          "imagen": "tortilla_harina_burrito.jpg"
+        },
+        {
+          "sku": "TH-005",
+          "nombre": "Tortillas de Harina Integral",
+          "presentacion": "500 g (10 pzas)",
+          "precio_unitario": 36.00,
+          "precio_caja": 432.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 18,
+          "peso_kg": 0.5,
+          "codigo_barras": "7501234568005",
+          "imagen": "tortilla_harina_integral.jpg"
+        },
+        {
+          "sku": "TH-006",
+          "nombre": "Tortillas de Harina Sin Gluten",
+          "presentacion": "400 g (8 pzas)",
+          "precio_unitario": 48.00,
+          "precio_caja": 576.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 15,
+          "peso_kg": 0.4,
+          "codigo_barras": "7501234568006",
+          "imagen": "tortilla_harina_sin_gluten.jpg"
+        },
+        {
+          "sku": "TH-007",
+          "nombre": "Tortillas de Harina con Espinaca",
+          "presentacion": "500 g (10 pzas)",
+          "precio_unitario": 38.00,
+          "precio_caja": 456.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 18,
+          "peso_kg": 0.5,
+          "codigo_barras": "7501234568007",
+          "imagen": "tortilla_harina_espinaca.jpg"
+        },
+        {
+          "sku": "TH-008",
+          "nombre": "Tortillas de Harina con Tomate",
+          "presentacion": "500 g (10 pzas)",
+          "precio_unitario": 38.00,
+          "precio_caja": 456.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 18,
+          "peso_kg": 0.5,
+          "codigo_barras": "7501234568008",
+          "imagen": "tortilla_harina_tomate.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cat-003",
+      "nombre": "Tortillas Bajas en Carbohidratos",
+      "descripcion": "Tortillas especiales para dietas bajas en carbohidratos",
+      "productos": [
+        {
+          "sku": "BC-001",
+          "nombre": "Tortillas Keto Original",
+          "presentacion": "300 g (8 pzas)",
+          "precio_unitario": 52.00,
+          "precio_caja": 624.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 25,
+          "peso_kg": 0.3,
+          "codigo_barras": "7501234569001",
+          "imagen": "tortilla_keto_original.jpg",
+          "info_nutricional": {
+            "carbohidratos_netos_g": 3,
+            "proteina_g": 8,
+            "fibra_g": 12,
+            "calorias": 90
+          }
+        },
+        {
+          "sku": "BC-002",
+          "nombre": "Tortillas Keto con Linaza",
+          "presentacion": "300 g (8 pzas)",
+          "precio_unitario": 54.00,
+          "precio_caja": 648.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 25,
+          "peso_kg": 0.3,
+          "codigo_barras": "7501234569002",
+          "imagen": "tortilla_keto_linaza.jpg",
+          "info_nutricional": {
+            "carbohidratos_netos_g": 2.5,
+            "proteina_g": 9,
+            "fibra_g": 14,
+            "calorias": 95
+          }
+        },
+        {
+          "sku": "BC-003",
+          "nombre": "Tortillas Proteína Plus",
+          "presentacion": "350 g (8 pzas)",
+          "precio_unitario": 56.00,
+          "precio_caja": 672.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 25,
+          "peso_kg": 0.35,
+          "codigo_barras": "7501234569003",
+          "imagen": "tortilla_proteina_plus.jpg",
+          "info_nutricional": {
+            "carbohidratos_netos_g": 4,
+            "proteina_g": 12,
+            "fibra_g": 10,
+            "calorias": 110
+          }
+        },
+        {
+          "sku": "BC-004",
+          "nombre": "Tortillas Fit con Chía",
+          "presentacion": "300 g (8 pzas)",
+          "precio_unitario": 54.00,
+          "precio_caja": 648.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 25,
+          "peso_kg": 0.3,
+          "codigo_barras": "7501234569004",
+          "imagen": "tortilla_fit_chia.jpg",
+          "info_nutricional": {
+            "carbohidratos_netos_g": 3.5,
+            "proteina_g": 8,
+            "fibra_g": 13,
+            "calorias": 92
+          }
+        },
+        {
+          "sku": "BC-005",
+          "nombre": "Tortillas Zero Carb",
+          "presentacion": "250 g (6 pzas)",
+          "precio_unitario": 62.00,
+          "precio_caja": 744.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 30,
+          "peso_kg": 0.25,
+          "codigo_barras": "7501234569005",
+          "imagen": "tortilla_zero_carb.jpg",
+          "info_nutricional": {
+            "carbohidratos_netos_g": 0.5,
+            "proteina_g": 10,
+            "fibra_g": 18,
+            "calorias": 85
+          }
+        },
+        {
+          "sku": "BC-006",
+          "nombre": "Tortillas Diabetic Friendly",
+          "presentacion": "350 g (10 pzas)",
+          "precio_unitario": 58.00,
+          "precio_caja": 696.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 25,
+          "peso_kg": 0.35,
+          "codigo_barras": "7501234569006",
+          "imagen": "tortilla_diabetic.jpg",
+          "info_nutricional": {
+            "carbohidratos_netos_g": 5,
+            "proteina_g": 7,
+            "fibra_g": 11,
+            "calorias": 88
+          }
+        }
+      ]
+    },
+    {
+      "id": "cat-004",
+      "nombre": "Tortillas Integrales",
+      "descripcion": "Tortillas elaboradas con granos enteros y fibra",
+      "productos": [
+        {
+          "sku": "TI-001",
+          "nombre": "Tortillas Integrales de Trigo",
+          "presentacion": "500 g (10 pzas)",
+          "precio_unitario": 34.00,
+          "precio_caja": 408.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 20,
+          "peso_kg": 0.5,
+          "codigo_barras": "7501234570001",
+          "imagen": "tortilla_integral_trigo.jpg"
+        },
+        {
+          "sku": "TI-002",
+          "nombre": "Tortillas Integrales de Avena",
+          "presentacion": "450 g (10 pzas)",
+          "precio_unitario": 38.00,
+          "precio_caja": 456.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 18,
+          "peso_kg": 0.45,
+          "codigo_barras": "7501234570002",
+          "imagen": "tortilla_integral_avena.jpg"
+        },
+        {
+          "sku": "TI-003",
+          "nombre": "Tortillas Multigrano",
+          "presentacion": "500 g (10 pzas)",
+          "precio_unitario": 40.00,
+          "precio_caja": 480.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 20,
+          "peso_kg": 0.5,
+          "codigo_barras": "7501234570003",
+          "imagen": "tortilla_multigrano.jpg"
+        },
+        {
+          "sku": "TI-004",
+          "nombre": "Tortillas de Centeno",
+          "presentacion": "450 g (10 pzas)",
+          "precio_unitario": 42.00,
+          "precio_caja": 504.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 18,
+          "peso_kg": 0.45,
+          "codigo_barras": "7501234570004",
+          "imagen": "tortilla_centeno.jpg"
+        },
+        {
+          "sku": "TI-005",
+          "nombre": "Tortillas de Amaranto",
+          "presentacion": "400 g (10 pzas)",
+          "precio_unitario": 44.00,
+          "precio_caja": 528.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 18,
+          "peso_kg": 0.4,
+          "codigo_barras": "7501234570005",
+          "imagen": "tortilla_amaranto.jpg"
+        },
+        {
+          "sku": "TI-006",
+          "nombre": "Tortillas de Quinoa",
+          "presentacion": "400 g (10 pzas)",
+          "precio_unitario": 46.00,
+          "precio_caja": 552.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 18,
+          "peso_kg": 0.4,
+          "codigo_barras": "7501234570006",
+          "imagen": "tortilla_quinoa.jpg"
+        },
+        {
+          "sku": "TI-007",
+          "nombre": "Tortillas de Nopal",
+          "presentacion": "450 g (10 pzas)",
+          "precio_unitario": 40.00,
+          "precio_caja": 480.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 15,
+          "peso_kg": 0.45,
+          "codigo_barras": "7501234570007",
+          "imagen": "tortilla_nopal.jpg"
+        },
+        {
+          "sku": "TI-008",
+          "nombre": "Tortillas de Semillas Mix",
+          "presentacion": "450 g (10 pzas)",
+          "precio_unitario": 42.00,
+          "precio_caja": 504.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 20,
+          "peso_kg": 0.45,
+          "codigo_barras": "7501234570008",
+          "imagen": "tortilla_semillas_mix.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cat-005",
+      "nombre": "Tostadas",
+      "descripcion": "Tostadas crujientes en 3 presentaciones: 30, 50 y 90 piezas",
+      "productos": [
+        {
+          "sku": "TS-001-30",
+          "nombre": "Tostadas Clásicas",
+          "presentacion": "30 piezas",
+          "precio_unitario": 18.00,
+          "precio_caja": 216.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.45,
+          "codigo_barras": "7501234571001",
+          "imagen": "tostada_clasica_30.jpg"
+        },
+        {
+          "sku": "TS-001-50",
+          "nombre": "Tostadas Clásicas",
+          "presentacion": "50 piezas",
+          "precio_unitario": 28.00,
+          "precio_caja": 336.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.75,
+          "codigo_barras": "7501234571002",
+          "imagen": "tostada_clasica_50.jpg"
+        },
+        {
+          "sku": "TS-001-90",
+          "nombre": "Tostadas Clásicas",
+          "presentacion": "90 piezas",
+          "precio_unitario": 48.00,
+          "precio_caja": 576.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 1.35,
+          "codigo_barras": "7501234571003",
+          "imagen": "tostada_clasica_90.jpg"
+        },
+        {
+          "sku": "TS-002-30",
+          "nombre": "Tostadas Horneadas",
+          "presentacion": "30 piezas",
+          "precio_unitario": 20.00,
+          "precio_caja": 240.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.45,
+          "codigo_barras": "7501234571004",
+          "imagen": "tostada_horneada_30.jpg"
+        },
+        {
+          "sku": "TS-002-50",
+          "nombre": "Tostadas Horneadas",
+          "presentacion": "50 piezas",
+          "precio_unitario": 32.00,
+          "precio_caja": 384.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.75,
+          "codigo_barras": "7501234571005",
+          "imagen": "tostada_horneada_50.jpg"
+        },
+        {
+          "sku": "TS-002-90",
+          "nombre": "Tostadas Horneadas",
+          "presentacion": "90 piezas",
+          "precio_unitario": 54.00,
+          "precio_caja": 648.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 1.35,
+          "codigo_barras": "7501234571006",
+          "imagen": "tostada_horneada_90.jpg"
+        },
+        {
+          "sku": "TS-003-30",
+          "nombre": "Tostadas de Maíz Azul",
+          "presentacion": "30 piezas",
+          "precio_unitario": 22.00,
+          "precio_caja": 264.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.45,
+          "codigo_barras": "7501234571007",
+          "imagen": "tostada_azul_30.jpg"
+        },
+        {
+          "sku": "TS-003-50",
+          "nombre": "Tostadas de Maíz Azul",
+          "presentacion": "50 piezas",
+          "precio_unitario": 35.00,
+          "precio_caja": 420.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.75,
+          "codigo_barras": "7501234571008",
+          "imagen": "tostada_azul_50.jpg"
+        },
+        {
+          "sku": "TS-003-90",
+          "nombre": "Tostadas de Maíz Azul",
+          "presentacion": "90 piezas",
+          "precio_unitario": 60.00,
+          "precio_caja": 720.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 1.35,
+          "codigo_barras": "7501234571009",
+          "imagen": "tostada_azul_90.jpg"
+        },
+        {
+          "sku": "TS-004-30",
+          "nombre": "Tostadas Charolas",
+          "presentacion": "30 piezas",
+          "precio_unitario": 19.00,
+          "precio_caja": 228.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.50,
+          "codigo_barras": "7501234571010",
+          "imagen": "tostada_charola_30.jpg"
+        },
+        {
+          "sku": "TS-004-50",
+          "nombre": "Tostadas Charolas",
+          "presentacion": "50 piezas",
+          "precio_unitario": 30.00,
+          "precio_caja": 360.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.85,
+          "codigo_barras": "7501234571011",
+          "imagen": "tostada_charola_50.jpg"
+        },
+        {
+          "sku": "TS-004-90",
+          "nombre": "Tostadas Charolas",
+          "presentacion": "90 piezas",
+          "precio_unitario": 52.00,
+          "precio_caja": 624.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 1.50,
+          "codigo_barras": "7501234571012",
+          "imagen": "tostada_charola_90.jpg"
+        },
+        {
+          "sku": "TS-005-30",
+          "nombre": "Tostadas Caseras",
+          "presentacion": "30 piezas",
+          "precio_unitario": 21.00,
+          "precio_caja": 252.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 60,
+          "peso_kg": 0.45,
+          "codigo_barras": "7501234571013",
+          "imagen": "tostada_casera_30.jpg"
+        },
+        {
+          "sku": "TS-005-50",
+          "nombre": "Tostadas Caseras",
+          "presentacion": "50 piezas",
+          "precio_unitario": 33.00,
+          "precio_caja": 396.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 60,
+          "peso_kg": 0.75,
+          "codigo_barras": "7501234571014",
+          "imagen": "tostada_casera_50.jpg"
+        },
+        {
+          "sku": "TS-005-90",
+          "nombre": "Tostadas Caseras",
+          "presentacion": "90 piezas",
+          "precio_unitario": 56.00,
+          "precio_caja": 672.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 60,
+          "peso_kg": 1.35,
+          "codigo_barras": "7501234571015",
+          "imagen": "tostada_casera_90.jpg"
+        },
+        {
+          "sku": "TS-006-30",
+          "nombre": "Tostadas Integrales",
+          "presentacion": "30 piezas",
+          "precio_unitario": 23.00,
+          "precio_caja": 276.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.45,
+          "codigo_barras": "7501234571016",
+          "imagen": "tostada_integral_30.jpg"
+        },
+        {
+          "sku": "TS-006-50",
+          "nombre": "Tostadas Integrales",
+          "presentacion": "50 piezas",
+          "precio_unitario": 37.00,
+          "precio_caja": 444.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.75,
+          "codigo_barras": "7501234571017",
+          "imagen": "tostada_integral_50.jpg"
+        },
+        {
+          "sku": "TS-006-90",
+          "nombre": "Tostadas Integrales",
+          "presentacion": "90 piezas",
+          "precio_unitario": 64.00,
+          "precio_caja": 768.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 1.35,
+          "codigo_barras": "7501234571018",
+          "imagen": "tostada_integral_90.jpg"
+        },
+        {
+          "sku": "TS-007-30",
+          "nombre": "Tostadas Mini",
+          "presentacion": "30 piezas",
+          "precio_unitario": 16.00,
+          "precio_caja": 192.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.30,
+          "codigo_barras": "7501234571019",
+          "imagen": "tostada_mini_30.jpg"
+        },
+        {
+          "sku": "TS-007-50",
+          "nombre": "Tostadas Mini",
+          "presentacion": "50 piezas",
+          "precio_unitario": 25.00,
+          "precio_caja": 300.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.50,
+          "codigo_barras": "7501234571020",
+          "imagen": "tostada_mini_50.jpg"
+        },
+        {
+          "sku": "TS-007-90",
+          "nombre": "Tostadas Mini",
+          "presentacion": "90 piezas",
+          "precio_unitario": 42.00,
+          "precio_caja": 504.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.90,
+          "codigo_barras": "7501234571021",
+          "imagen": "tostada_mini_90.jpg"
+        },
+        {
+          "sku": "TS-008-30",
+          "nombre": "Tostadas Tostisanas Premium",
+          "presentacion": "30 piezas",
+          "precio_unitario": 25.00,
+          "precio_caja": 300.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.45,
+          "codigo_barras": "7501234571022",
+          "imagen": "tostada_premium_30.jpg"
+        },
+        {
+          "sku": "TS-008-50",
+          "nombre": "Tostadas Tostisanas Premium",
+          "presentacion": "50 piezas",
+          "precio_unitario": 40.00,
+          "precio_caja": 480.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.75,
+          "codigo_barras": "7501234571023",
+          "imagen": "tostada_premium_50.jpg"
+        },
+        {
+          "sku": "TS-008-90",
+          "nombre": "Tostadas Tostisanas Premium",
+          "presentacion": "90 piezas",
+          "precio_unitario": 68.00,
+          "precio_caja": 816.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 1.35,
+          "codigo_barras": "7501234571024",
+          "imagen": "tostada_premium_90.jpg"
+        }
+      ]
+    },
+    {
+      "id": "cat-006",
+      "nombre": "Bocadillos",
+      "descripcion": "Snacks y botanas de maíz y tortilla",
+      "productos": [
+        {
+          "sku": "BC-001",
+          "nombre": "Totopos Naturales",
+          "presentacion": "250 g",
+          "precio_unitario": 28.00,
+          "precio_caja": 336.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 120,
+          "peso_kg": 0.25,
+          "codigo_barras": "7501234572001",
+          "imagen": "totopo_natural.jpg"
+        },
+        {
+          "sku": "BC-002",
+          "nombre": "Totopos con Sal",
+          "presentacion": "250 g",
+          "precio_unitario": 28.00,
+          "precio_caja": 336.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 120,
+          "peso_kg": 0.25,
+          "codigo_barras": "7501234572002",
+          "imagen": "totopo_sal.jpg"
+        },
+        {
+          "sku": "BC-003",
+          "nombre": "Totopos con Chile",
+          "presentacion": "250 g",
+          "precio_unitario": 30.00,
+          "precio_caja": 360.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 120,
+          "peso_kg": 0.25,
+          "codigo_barras": "7501234572003",
+          "imagen": "totopo_chile.jpg"
+        },
+        {
+          "sku": "BC-004",
+          "nombre": "Totopos con Limón",
+          "presentacion": "250 g",
+          "precio_unitario": 30.00,
+          "precio_caja": 360.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 120,
+          "peso_kg": 0.25,
+          "codigo_barras": "7501234572004",
+          "imagen": "totopo_limon.jpg"
+        },
+        {
+          "sku": "BC-005",
+          "nombre": "Chicharrones de Harina",
+          "presentacion": "200 g",
+          "precio_unitario": 22.00,
+          "precio_caja": 264.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.2,
+          "codigo_barras": "7501234572005",
+          "imagen": "chicharron_harina.jpg"
+        },
+        {
+          "sku": "BC-006",
+          "nombre": "Chicharrones con Chile",
+          "presentacion": "200 g",
+          "precio_unitario": 24.00,
+          "precio_caja": 288.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 90,
+          "peso_kg": 0.2,
+          "codigo_barras": "7501234572006",
+          "imagen": "chicharron_chile.jpg"
+        },
+        {
+          "sku": "BC-007",
+          "nombre": "Tiras de Tortilla Horneadas",
+          "presentacion": "180 g",
+          "precio_unitario": 26.00,
+          "precio_caja": 312.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 120,
+          "peso_kg": 0.18,
+          "codigo_barras": "7501234572007",
+          "imagen": "tiras_horneadas.jpg"
+        },
+        {
+          "sku": "BC-008",
+          "nombre": "Nachos Tostisanas",
+          "presentacion": "300 g",
+          "precio_unitario": 32.00,
+          "precio_caja": 384.00,
+          "unidades_por_caja": 12,
+          "vida_util_dias": 120,
+          "peso_kg": 0.3,
+          "codigo_barras": "7501234572008",
+          "imagen": "nachos.jpg"
+        }
+      ]
+    }
+  ],
+  "resumen_por_categoria": {
+    "Tortillas de Maíz": {
+      "total_productos": 8,
+      "rango_precio": "26.00 - 42.00 MXN",
+      "vida_util_promedio": "13 días"
+    },
+    "Tortillas de Harina": {
+      "total_productos": 8,
+      "rango_precio": "28.00 - 48.00 MXN",
+      "vida_util_promedio": "19 días"
+    },
+    "Tortillas Bajas en Carbohidratos": {
+      "total_productos": 6,
+      "rango_precio": "52.00 - 62.00 MXN",
+      "vida_util_promedio": "26 días"
+    },
+    "Tortillas Integrales": {
+      "total_productos": 8,
+      "rango_precio": "34.00 - 46.00 MXN",
+      "vida_util_promedio": "19 días"
+    },
+    "Tostadas": {
+      "total_productos": 24,
+      "presentaciones": "3 (30, 50 y 90 piezas)",
+      "tipos": 8,
+      "rango_precio": "16.00 - 68.00 MXN",
+      "vida_util_promedio": "87 días"
+    },
+    "Bocadillos": {
+      "total_productos": 8,
+      "rango_precio": "22.00 - 32.00 MXN",
+      "vida_util_promedio": "110 días"
+    }
+  }
+}

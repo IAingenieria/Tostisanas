@@ -1,0 +1,14 @@
+id,pedido_id,numero_pedido,cliente_id,cliente_nombre,vendedor_id,monto,metodo_pago,fecha_cobro,hora_cobro,estatus,referencia,notas
+1,2,P-1002,2,Farmacia San José,2,2340.00,efectivo,2026-04-23,08:45,cobrado,EF-20260423-001,Cobro en campo - Completo
+2,3,P-1003,3,Fonda Doña Lupita,2,1680.00,efectivo,2026-04-23,09:21,cobrado,EF-20260423-002,Cobro en campo - Completo
+3,5,P-1005,5,Papelería Escolar Cruz,2,1260.00,efectivo,2026-04-23,10:30,cobrado,EF-20260423-003,Cobro en campo - Completo
+4,7,P-1007,7,Abarrotes La Esperanza,2,2100.00,efectivo,2026-04-23,11:40,cobrado,EF-20260423-004,Cobro en campo - Completo
+5,9,P-1009,9,Carnicería El Borrego,2,1575.00,efectivo,2026-04-23,13:08,cobrado,EF-20260423-005,Cobro en campo - Completo
+6,10,P-1010,10,Taquería Los Compadres,2,2520.00,efectivo,2026-04-23,13:48,cobrado,EF-20260423-006,Cobro en campo - Completo
+7,12,P-1012,12,Tienda La Guadalupana,2,1785.00,efectivo,2026-04-23,15:15,cobrado,EF-20260423-007,Cobro en campo - Completo
+8,13,P-1013,13,Tortillería El Maizal,2,945.00,efectivo,2026-04-23,15:52,cobrado,EF-20260423-008,Cobro en campo - Completo
+9,1,P-1001,1,Abarrotes Don Roberto,2,1945.00,credito,2026-05-08,null,pendiente,CR-20260423-001,Crédito 15 días - Vence 08-May
+10,4,P-1004,4,Minisuper El Roble,2,3420.00,credito,2026-05-08,null,pendiente,CR-20260423-002,Crédito 15 días - Vence 08-May
+11,6,P-1006,6,Tienda Roma,2,1890.00,credito,2026-05-08,null,pendiente,CR-20260423-003,Crédito 15 días - Vence 08-May
+12,8,P-1008,8,Minisuper Cumbres,2,3150.00,credito,2026-05-08,null,pendiente,CR-20260423-004,Crédito 15 días - Vence 08-May
+13,11,P-1011,11,Super Familiar García,2,4200.00,credito,2026-05-08,null,pendiente,CR-20260423-005,Crédito 15 días - Vence 08-May

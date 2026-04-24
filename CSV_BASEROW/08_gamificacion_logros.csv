@@ -1,0 +1,25 @@
+id,vendedor_id,vendedor_nombre,logro_id,logro_nombre,logro_descripcion,icono,puntos_otorgados,fecha_desbloqueo,categoria,desbloqueado
+1,2,Luis Rodríguez,1,Primer pedido,Primer pedido del mes,⚡,50,2026-04-01,basico,true
+2,2,Luis Rodríguez,2,100% cobertura,Un día de cobertura perfecta,🎯,100,2026-04-05,cobertura,true
+3,2,Luis Rodríguez,3,Racha de 5,5 días consecutivos de meta,🔥,150,2026-04-10,racha,true
+4,2,Luis Rodríguez,4,Superstar,125% de meta en un mes,🚀,200,2026-04-15,meta,true
+5,2,Luis Rodríguez,5,Mes de oro,#1 en zona un mes,⭐,300,null,ranking,false
+6,2,Luis Rodríguez,6,Diamante,6 meses >100% de meta,💎,500,null,meta,false
+7,2,Luis Rodríguez,7,Élite nacional,Top 50 vendedores nacionales,🏆,1000,null,ranking,false
+8,2,Luis Rodríguez,8,Leyenda,3 años >110% de meta,👑,2000,null,meta,false
+9,2,Luis Rodríguez,9,Mix maestro,20 SKUs distintos en 1 pedido,📦,100,null,producto,false
+10,1,Ana García,1,Primer pedido,Primer pedido del mes,⚡,50,2026-04-01,basico,true
+11,1,Ana García,2,100% cobertura,Un día de cobertura perfecta,🎯,100,2026-04-03,cobertura,true
+12,1,Ana García,3,Racha de 5,5 días consecutivos de meta,🔥,150,2026-04-08,racha,true
+13,1,Ana García,4,Superstar,125% de meta en un mes,🚀,200,2026-04-12,meta,true
+14,1,Ana García,5,Mes de oro,#1 en zona un mes,⭐,300,2026-04-20,ranking,true
+15,3,Carlos Martínez,1,Primer pedido,Primer pedido del mes,⚡,50,2026-04-01,basico,true
+16,3,Carlos Martínez,2,100% cobertura,Un día de cobertura perfecta,🎯,100,2026-04-07,cobertura,true
+17,4,Marco Torres,1,Primer pedido,Primer pedido del mes,⚡,50,2026-04-01,basico,true
+18,4,Marco Torres,2,100% cobertura,Un día de cobertura perfecta,🎯,100,2026-04-04,cobertura,true
+19,4,Marco Torres,3,Racha de 5,5 días consecutivos de meta,🔥,150,2026-04-11,racha,true
+20,5,Diana Pérez,1,Primer pedido,Primer pedido del mes,⚡,50,2026-04-01,basico,true
+21,5,Diana Pérez,2,100% cobertura,Un día de cobertura perfecta,🎯,100,2026-04-06,cobertura,true
+22,5,Diana Pérez,3,Racha de 5,5 días consecutivos de meta,🔥,150,2026-04-13,racha,true
+23,6,Jorge Ruiz,1,Primer pedido,Primer pedido del mes,⚡,50,2026-04-01,basico,true
+24,6,Jorge Ruiz,2,100% cobertura,Un día de cobertura perfecta,🎯,100,2026-04-09,cobertura,true

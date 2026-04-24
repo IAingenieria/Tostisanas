@@ -1,0 +1,47 @@
+SKU,Nombre,Categoria,Presentacion,Precio_Unitario,Precio_Caja,Unidades_Caja,Vida_Util_Dias,Peso_KG,Codigo_Barras
+TM-001,Tortillas de Maíz Blanco,Tortillas de Maíz,1 kg (aprox. 30 pzas),28.50,342.00,12,15,1.0,7501234567001
+TM-002,Tortillas de Maíz Amarillo,Tortillas de Maíz,1 kg (aprox. 30 pzas),28.50,342.00,12,15,1.0,7501234567002
+TM-003,Tortillas de Maíz Azul,Tortillas de Maíz,500 g (aprox. 15 pzas),32.00,384.00,12,15,0.5,7501234567003
+TM-004,Tortillas de Maíz Rojo,Tortillas de Maíz,500 g (aprox. 15 pzas),32.00,384.00,12,15,0.5,7501234567004
+TM-005,Tortillas de Maíz Mini,Tortillas de Maíz,500 g (aprox. 40 pzas),26.00,312.00,12,15,0.5,7501234567005
+TM-006,Tortillas de Maíz Jumbo,Tortillas de Maíz,1 kg (aprox. 20 pzas),32.00,384.00,12,15,1.0,7501234567006
+TM-007,Tortillas de Maíz Orgánico,Tortillas de Maíz,750 g (aprox. 22 pzas),42.00,504.00,12,12,0.75,7501234567007
+TM-008,Tortillas de Maíz Sin Conservadores,Tortillas de Maíz,1 kg (aprox. 30 pzas),35.00,420.00,12,7,1.0,7501234567008
+TH-001,Tortillas de Harina Tradicional,Tortillas de Harina,500 g (10 pzas),32.00,384.00,12,20,0.5,7501234568001
+TH-002,Tortillas de Harina Sobaqueras,Tortillas de Harina,750 g (8 pzas),38.00,456.00,12,20,0.75,7501234568002
+TH-003,Tortillas de Harina Mini,Tortillas de Harina,400 g (16 pzas),28.00,336.00,12,20,0.4,7501234568003
+TH-004,Tortillas de Harina Burrito,Tortillas de Harina,600 g (6 pzas),36.00,432.00,12,20,0.6,7501234568004
+TH-005,Tortillas de Harina Integral,Tortillas de Harina,500 g (10 pzas),36.00,432.00,12,18,0.5,7501234568005
+TH-006,Tortillas de Harina Sin Gluten,Tortillas de Harina,400 g (8 pzas),48.00,576.00,12,15,0.4,7501234568006
+TH-007,Tortillas de Harina con Espinaca,Tortillas de Harina,500 g (10 pzas),38.00,456.00,12,18,0.5,7501234568007
+TH-008,Tortillas de Harina con Tomate,Tortillas de Harina,500 g (10 pzas),38.00,456.00,12,18,0.5,7501234568008
+BC-001,Tortillas Keto Original,Bajas en Carbohidratos,300 g (8 pzas),52.00,624.00,12,25,0.3,7501234569001
+BC-002,Tortillas Keto con Linaza,Bajas en Carbohidratos,300 g (8 pzas),54.00,648.00,12,25,0.3,7501234569002
+BC-003,Tortillas Proteína Plus,Bajas en Carbohidratos,350 g (8 pzas),56.00,672.00,12,25,0.35,7501234569003
+BC-004,Tortillas Fit con Chía,Bajas en Carbohidratos,300 g (8 pzas),54.00,648.00,12,25,0.3,7501234569004
+BC-005,Tortillas Zero Carb,Bajas en Carbohidratos,250 g (6 pzas),62.00,744.00,12,30,0.25,7501234569005
+BC-006,Tortillas Diabetic Friendly,Bajas en Carbohidratos,350 g (10 pzas),58.00,696.00,12,25,0.35,7501234569006
+TI-001,Tortillas Integrales de Trigo,Tortillas Integrales,500 g (10 pzas),34.00,408.00,12,20,0.5,7501234570001
+TI-002,Tortillas Integrales de Avena,Tortillas Integrales,450 g (10 pzas),38.00,456.00,12,18,0.45,7501234570002
+TI-003,Tortillas Multigrano,Tortillas Integrales,500 g (10 pzas),40.00,480.00,12,20,0.5,7501234570003
+TI-004,Tortillas de Centeno,Tortillas Integrales,450 g (10 pzas),42.00,504.00,12,18,0.45,7501234570004
+TI-005,Tortillas de Amaranto,Tortillas Integrales,400 g (10 pzas),44.00,528.00,12,18,0.4,7501234570005
+TI-006,Tortillas de Quinoa,Tortillas Integrales,400 g (10 pzas),46.00,552.00,12,18,0.4,7501234570006
+TI-007,Tortillas de Nopal,Tortillas Integrales,450 g (10 pzas),40.00,480.00,12,15,0.45,7501234570007
+TI-008,Tortillas de Semillas Mix,Tortillas Integrales,450 g (10 pzas),42.00,504.00,12,20,0.45,7501234570008
+TS-001,Tostadas Clásicas,Tostadas,500 g (aprox. 30 pzas),24.00,288.00,12,90,0.5,7501234571001
+TS-002,Tostadas Horneadas,Tostadas,400 g (aprox. 25 pzas),28.00,336.00,12,90,0.4,7501234571002
+TS-003,Tostadas de Maíz Azul,Tostadas,400 g (aprox. 25 pzas),32.00,384.00,12,90,0.4,7501234571003
+TS-004,Tostadas Charolas,Tostadas,600 g (aprox. 20 pzas),26.00,312.00,12,90,0.6,7501234571004
+TS-005,Tostadas Caseras,Tostadas,500 g (aprox. 30 pzas),30.00,360.00,12,60,0.5,7501234571005
+TS-006,Tostadas Integrales,Tostadas,400 g (aprox. 25 pzas),34.00,408.00,12,90,0.4,7501234571006
+TS-007,Tostadas Mini,Tostadas,350 g (aprox. 50 pzas),26.00,312.00,12,90,0.35,7501234571007
+TS-008,Tostadas Tostisanas Premium,Tostadas,450 g (aprox. 28 pzas),36.00,432.00,12,90,0.45,7501234571008
+BO-001,Totopos Naturales,Bocadillos,250 g,28.00,336.00,12,120,0.25,7501234572001
+BO-002,Totopos con Sal,Bocadillos,250 g,28.00,336.00,12,120,0.25,7501234572002
+BO-003,Totopos con Chile,Bocadillos,250 g,30.00,360.00,12,120,0.25,7501234572003
+BO-004,Totopos con Limón,Bocadillos,250 g,30.00,360.00,12,120,0.25,7501234572004
+BO-005,Chicharrones de Harina,Bocadillos,200 g,22.00,264.00,12,90,0.2,7501234572005
+BO-006,Chicharrones con Chile,Bocadillos,200 g,24.00,288.00,12,90,0.2,7501234572006
+BO-007,Tiras de Tortilla Horneadas,Bocadillos,180 g,26.00,312.00,12,120,0.18,7501234572007
+BO-008,Nachos Tostisanas,Bocadillos,300 g,32.00,384.00,12,120,0.3,7501234572008

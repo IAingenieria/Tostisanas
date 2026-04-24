@@ -1,0 +1,7 @@
+id,nombre_ruta,cedis,vendedor_id,vendedor_nombre,dia_semana,hora_inicio,hora_fin,clientes_asignados,clientes_completados,estatus,distancia_km,tiempo_estimado_min,zona_geografica
+1,Centro A,Guadalajara Centro,2,Luis Rodríguez,Lunes,08:00,16:00,30,13,en_progreso,45.2,480,Centro
+2,Centro B,Guadalajara Centro,5,Diana Pérez,Lunes,08:00,16:00,30,16,en_progreso,42.8,480,Centro
+3,Norte A,Guadalajara Centro,1,Ana García,Lunes,08:00,16:00,30,19,en_progreso,52.3,480,Norte
+4,Norte B,Guadalajara Centro,4,Marco Torres,Lunes,08:00,16:00,30,17,en_progreso,48.7,480,Norte
+5,Sur A,Guadalajara Centro,3,Carlos Martínez,Lunes,08:00,16:00,30,11,en_progreso,39.5,480,Sur
+6,Sur B,Guadalajara Centro,6,Jorge Ruiz,Lunes,08:00,16:00,30,14,en_progreso,41.2,480,Sur

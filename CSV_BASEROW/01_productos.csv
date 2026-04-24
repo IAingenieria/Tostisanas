@@ -1,0 +1,63 @@
+id,sku,nombre,categoria,categoria_nombre,presentacion,precio_unitario,precio_caja,unidades_caja,vida_util_dias,peso_kg,codigo_barras,stock_actual,stock_minimo,ubicacion_cedis,activo
+1,TM-001,Tortillas de Maíz Blanco,cat-001,Tortillas de Maíz,1 kg (30 pzas),28.50,342.00,12,15,1.0,7501234567001,450,100,A-01-01,true
+2,TM-002,Tortillas de Maíz Amarillo,cat-001,Tortillas de Maíz,1 kg (30 pzas),28.50,342.00,12,15,1.0,7501234567002,380,100,A-01-02,true
+3,TM-003,Tortillas de Maíz Azul,cat-001,Tortillas de Maíz,500 g (15 pzas),32.00,384.00,12,15,0.5,7501234567003,220,80,A-01-03,true
+4,TM-004,Tortillas de Maíz Rojo,cat-001,Tortillas de Maíz,500 g (15 pzas),32.00,384.00,12,15,0.5,7501234567004,180,80,A-01-04,true
+5,TM-005,Tortillas de Maíz Mini,cat-001,Tortillas de Maíz,500 g (40 pzas),26.00,312.00,12,15,0.5,7501234567005,310,100,A-01-05,true
+6,TM-006,Tortillas de Maíz Jumbo,cat-001,Tortillas de Maíz,1 kg (20 pzas),32.00,384.00,12,15,1.0,7501234567006,270,80,A-01-06,true
+7,TM-007,Tortillas de Maíz Orgánico,cat-001,Tortillas de Maíz,750 g (22 pzas),42.00,504.00,12,12,0.75,7501234567007,95,60,A-01-07,true
+8,TM-008,Tortillas de Maíz Sin Conservadores,cat-001,Tortillas de Maíz,1 kg (30 pzas),35.00,420.00,12,7,1.0,7501234567008,45,40,A-01-08,true
+9,TH-001,Tortillas de Harina Tradicional,cat-002,Tortillas de Harina,500 g (10 pzas),32.00,384.00,12,20,0.5,7501234568001,520,120,A-02-01,true
+10,TH-002,Tortillas de Harina Sobaqueras,cat-002,Tortillas de Harina,750 g (8 pzas),38.00,456.00,12,20,0.75,7501234568002,340,100,A-02-02,true
+11,TH-003,Tortillas de Harina Mini,cat-002,Tortillas de Harina,400 g (16 pzas),28.00,336.00,12,20,0.4,7501234568003,280,80,A-02-03,true
+12,TH-004,Tortillas de Harina Burrito,cat-002,Tortillas de Harina,600 g (6 pzas),36.00,432.00,12,20,0.6,7501234568004,410,100,A-02-04,true
+13,TH-005,Tortillas de Harina Integral,cat-002,Tortillas de Harina,500 g (10 pzas),36.00,432.00,12,18,0.5,7501234568005,190,80,A-02-05,true
+14,TH-006,Tortillas de Harina Sin Gluten,cat-002,Tortillas de Harina,400 g (8 pzas),48.00,576.00,12,15,0.4,7501234568006,85,50,A-02-06,true
+15,TH-007,Tortillas de Harina con Espinaca,cat-002,Tortillas de Harina,500 g (10 pzas),38.00,456.00,12,18,0.5,7501234568007,150,60,A-02-07,true
+16,TH-008,Tortillas de Harina con Tomate,cat-002,Tortillas de Harina,500 g (10 pzas),38.00,456.00,12,18,0.5,7501234568008,165,60,A-02-08,true
+17,BC-001,Tortillas Keto Original,cat-003,Bajas en Carbohidratos,300 g (8 pzas),52.00,624.00,12,25,0.3,7501234569001,120,40,A-03-01,true
+18,BC-002,Tortillas Keto con Linaza,cat-003,Bajas en Carbohidratos,300 g (8 pzas),54.00,648.00,12,25,0.3,7501234569002,95,40,A-03-02,true
+19,BC-003,Tortillas Proteína Plus,cat-003,Bajas en Carbohidratos,350 g (8 pzas),56.00,672.00,12,25,0.35,7501234569003,110,40,A-03-03,true
+20,BC-004,Tortillas Fit con Chía,cat-003,Bajas en Carbohidratos,300 g (8 pzas),54.00,648.00,12,25,0.3,7501234569004,88,40,A-03-04,true
+21,BC-005,Tortillas Zero Carb,cat-003,Bajas en Carbohidratos,250 g (6 pzas),62.00,744.00,12,30,0.25,7501234569005,72,30,A-03-05,true
+22,BC-006,Tortillas Diabetic Friendly,cat-003,Bajas en Carbohidratos,350 g (10 pzas),58.00,696.00,12,25,0.35,7501234569006,105,40,A-03-06,true
+23,TI-001,Tortillas Integrales de Trigo,cat-004,Tortillas Integrales,500 g (10 pzas),34.00,408.00,12,20,0.5,7501234570001,240,80,A-04-01,true
+24,TI-002,Tortillas Integrales de Avena,cat-004,Tortillas Integrales,450 g (10 pzas),38.00,456.00,12,18,0.45,7501234570002,195,60,A-04-02,true
+25,TI-003,Tortillas Multigrano,cat-004,Tortillas Integrales,500 g (10 pzas),40.00,480.00,12,20,0.5,7501234570003,210,70,A-04-03,true
+26,TI-004,Tortillas de Centeno,cat-004,Tortillas Integrales,450 g (10 pzas),42.00,504.00,12,18,0.45,7501234570004,165,60,A-04-04,true
+27,TI-005,Tortillas de Amaranto,cat-004,Tortillas Integrales,400 g (10 pzas),44.00,528.00,12,18,0.4,7501234570005,145,50,A-04-05,true
+28,TI-006,Tortillas de Quinoa,cat-004,Tortillas Integrales,400 g (10 pzas),46.00,552.00,12,18,0.4,7501234570006,130,50,A-04-06,true
+29,TI-007,Tortillas de Nopal,cat-004,Tortillas Integrales,450 g (10 pzas),40.00,480.00,12,15,0.45,7501234570007,98,50,A-04-07,true
+30,TI-008,Tortillas de Semillas Mix,cat-004,Tortillas Integrales,450 g (10 pzas),42.00,504.00,12,20,0.45,7501234570008,175,60,A-04-08,true
+31,TS-001-30,Tostadas Clásicas,cat-005,Tostadas,30 piezas,18.00,216.00,12,90,0.45,7501234571001,680,200,B-01-01,true
+32,TS-001-50,Tostadas Clásicas,cat-005,Tostadas,50 piezas,28.00,336.00,12,90,0.75,7501234571002,890,250,B-01-02,true
+33,TS-001-90,Tostadas Clásicas,cat-005,Tostadas,90 piezas,48.00,576.00,12,90,1.35,7501234571003,520,150,B-01-03,true
+34,TS-002-30,Tostadas Horneadas,cat-005,Tostadas,30 piezas,20.00,240.00,12,90,0.45,7501234571004,450,150,B-01-04,true
+35,TS-002-50,Tostadas Horneadas,cat-005,Tostadas,50 piezas,32.00,384.00,12,90,0.75,7501234571005,580,180,B-01-05,true
+36,TS-002-90,Tostadas Horneadas,cat-005,Tostadas,90 piezas,54.00,648.00,12,90,1.35,7501234571006,320,120,B-01-06,true
+37,TS-003-30,Tostadas de Maíz Azul,cat-005,Tostadas,30 piezas,22.00,264.00,12,90,0.45,7501234571007,340,120,B-02-01,true
+38,TS-003-50,Tostadas de Maíz Azul,cat-005,Tostadas,50 piezas,35.00,420.00,12,90,0.75,7501234571008,420,140,B-02-02,true
+39,TS-003-90,Tostadas de Maíz Azul,cat-005,Tostadas,90 piezas,60.00,720.00,12,90,1.35,7501234571009,250,100,B-02-03,true
+40,TS-004-30,Tostadas Charolas,cat-005,Tostadas,30 piezas,19.00,228.00,12,90,0.50,7501234571010,510,160,B-02-04,true
+41,TS-004-50,Tostadas Charolas,cat-005,Tostadas,50 piezas,30.00,360.00,12,90,0.85,7501234571011,640,200,B-02-05,true
+42,TS-004-90,Tostadas Charolas,cat-005,Tostadas,90 piezas,52.00,624.00,12,90,1.50,7501234571012,380,140,B-02-06,true
+43,TS-005-30,Tostadas Caseras,cat-005,Tostadas,30 piezas,21.00,252.00,12,60,0.45,7501234571013,290,100,B-03-01,true
+44,TS-005-50,Tostadas Caseras,cat-005,Tostadas,50 piezas,33.00,396.00,12,60,0.75,7501234571014,370,120,B-03-02,true
+45,TS-005-90,Tostadas Caseras,cat-005,Tostadas,90 piezas,56.00,672.00,12,60,1.35,7501234571015,210,80,B-03-03,true
+46,TS-006-30,Tostadas Integrales,cat-005,Tostadas,30 piezas,23.00,276.00,12,90,0.45,7501234571016,260,90,B-03-04,true
+47,TS-006-50,Tostadas Integrales,cat-005,Tostadas,50 piezas,37.00,444.00,12,90,0.75,7501234571017,330,110,B-03-05,true
+48,TS-006-90,Tostadas Integrales,cat-005,Tostadas,90 piezas,64.00,768.00,12,90,1.35,7501234571018,190,70,B-03-06,true
+49,TS-007-30,Tostadas Mini,cat-005,Tostadas,30 piezas,16.00,192.00,12,90,0.30,7501234571019,720,220,B-04-01,true
+50,TS-007-50,Tostadas Mini,cat-005,Tostadas,50 piezas,25.00,300.00,12,90,0.50,7501234571020,850,260,B-04-02,true
+51,TS-007-90,Tostadas Mini,cat-005,Tostadas,90 piezas,42.00,504.00,12,90,0.90,7501234571021,480,160,B-04-03,true
+52,TS-008-30,Tostadas Tostisanas Premium,cat-005,Tostadas,30 piezas,25.00,300.00,12,90,0.45,7501234571022,310,100,B-04-04,true
+53,TS-008-50,Tostadas Tostisanas Premium,cat-005,Tostadas,50 piezas,40.00,480.00,12,90,0.75,7501234571023,390,130,B-04-05,true
+54,TS-008-90,Tostadas Tostisanas Premium,cat-005,Tostadas,90 piezas,68.00,816.00,12,90,1.35,7501234571024,220,80,B-04-06,true
+55,BO-001,Totopos Naturales,cat-006,Bocadillos,250 g,28.00,336.00,12,120,0.25,7501234572001,540,180,C-01-01,true
+56,BO-002,Totopos con Sal,cat-006,Bocadillos,250 g,28.00,336.00,12,120,0.25,7501234572002,620,200,C-01-02,true
+57,BO-003,Totopos con Chile,cat-006,Bocadillos,250 g,30.00,360.00,12,120,0.25,7501234572003,480,160,C-01-03,true
+58,BO-004,Totopos con Limón,cat-006,Bocadillos,250 g,30.00,360.00,12,120,0.25,7501234572004,510,170,C-01-04,true
+59,BO-005,Chicharrones de Harina,cat-006,Bocadillos,200 g,22.00,264.00,12,90,0.2,7501234572005,380,130,C-01-05,true
+60,BO-006,Chicharrones con Chile,cat-006,Bocadillos,200 g,24.00,288.00,12,90,0.2,7501234572006,420,140,C-01-06,true
+61,BO-007,Tiras de Tortilla Horneadas,cat-006,Bocadillos,180 g,26.00,312.00,12,120,0.18,7501234572007,350,120,C-01-07,true
+62,BO-008,Nachos Tostisanas,cat-006,Bocadillos,300 g,32.00,384.00,12,120,0.3,7501234572008,460,150,C-01-08,true

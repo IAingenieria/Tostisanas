@@ -1,0 +1,31 @@
+id,nombre,tipo_negocio,colonia,direccion,telefono,nombre_dueno,rfc,credito_dias,limite_credito,saldo_actual,estatus,ultima_visita,proxima_visita,ruta_asignada,vendedor_asignado,latitud,longitud,notas
+1,Abarrotes Don Roberto,Tiendita,Col. Cumbres,Av. Cumbres 245,8112345001,Roberto Martínez,MARR850315ABC,15,5000,320,activo,2026-04-23,2026-04-24,Centro A,Luis Rodríguez,25.6866,-100.3161,Cliente frecuente - Quincena
+2,Farmacia San José,Farmacia,Centro Norte,Calle Juárez 128,8112345002,José González,GONJ780520DEF,30,8000,0,activo,2026-04-23,2026-04-25,Centro A,Luis Rodríguez,25.6892,-100.3145,Buen volumen
+3,Fonda Doña Lupita,Fonda,Col. Obrera,Av. Obrera 89,8112345003,Lupita Hernández,HERL720810GHI,7,3000,0,activo,2026-04-23,2026-04-24,Centro A,Luis Rodríguez,25.6845,-100.3178,Pedidos consistentes
+4,Minisuper El Roble,Minisuper,Col. Valle,Blvd. Valle 567,8112345004,Carlos Robles,ROBC650925JKL,15,12000,0,activo,2026-04-23,2026-04-25,Centro A,Luis Rodríguez,25.6920,-100.3120,Cliente nuevo - Alto potencial
+5,Papelería Escolar Cruz,Papelería,Frente escuela,Calle Educación 34,8112345005,María Cruz,CRUM881205MNO,15,4000,0,activo,2026-04-23,2026-04-26,Centro A,Luis Rodríguez,25.6878,-100.3155,Temporada escolar
+6,Tienda Roma,Tiendita,Col. Roma,Av. Roma 156,8112345006,Pedro Ramírez,RAMP750618PQR,15,5000,0,activo,2026-04-23,2026-04-26,Centro A,Luis Rodríguez,25.6855,-100.3190,Buen pagador
+7,Abarrotes La Esperanza,Tiendita,Col. Vista,Calle Vista 78,8112345007,Ana López,LOPA820330STU,15,5000,0,activo,2026-04-23,2026-04-27,Centro A,Luis Rodríguez,25.6910,-100.3135,Puntual en pagos
+8,Minisuper Cumbres,Minisuper,Col. Cumbres,Av. Cumbres 890,8112345008,Jorge Sánchez,SANJ701122VWX,15,10000,0,activo,2026-04-23,2026-04-27,Centro A,Luis Rodríguez,25.6870,-100.3165,Alto volumen
+9,Carnicería El Borrego,Carnicería,Mercado 5,Local 45 Mercado 5,8112345009,Miguel Torres,TORM680405YZA,7,3000,180,activo,2026-04-23,2026-04-24,Centro A,Luis Rodríguez,25.6888,-100.3150,Cobrar pendiente
+10,Taquería Los Compadres,Restaurante,Av. Lincoln,Av. Lincoln 234,8112345010,Ricardo Flores,FLOR760915BCD,7,4000,0,activo,2026-04-23,2026-04-25,Centro A,Luis Rodríguez,25.6900,-100.3140,Pedidos grandes
+11,Super Familiar García,Minisuper,Col. Fierro,Calle Fierro 456,8112345011,Fernando García,GARF830720EFG,15,15000,0,activo,2026-04-23,2026-04-26,Centro A,Luis Rodríguez,25.6925,-100.3125,Excelente cliente
+12,Tienda La Guadalupana,Tiendita,Col. Libertad,Av. Libertad 123,8112345012,Guadalupe Morales,MORG771010HIJ,15,5000,0,activo,2026-04-23,2026-04-27,Centro A,Luis Rodríguez,25.6860,-100.3175,Cliente estable
+13,Tortillería El Maizal,Tortillería,Av. Madero,Av. Madero 789,8112345013,Antonio Ruiz,RUIA690525KLM,7,3000,0,activo,2026-04-23,2026-04-24,Centro A,Luis Rodríguez,25.6895,-100.3148,Compra diario
+14,Abarrotes Don Roberto,Tiendita,Col. Cumbres,Av. Cumbres 245,8112345001,Roberto Martínez,MARR850315ABC,15,5000,0,pendiente,2026-04-22,2026-04-24,Centro A,Luis Rodríguez,25.6866,-100.3161,Próxima visita - Quincena
+15,Cenaduría La Tía,Restaurante,Col. Obrera,Calle Obrera 67,8112345014,Rosa Jiménez,JIMR741215NOP,7,4000,0,pendiente,2026-04-20,2026-04-24,Centro A,Luis Rodríguez,25.6850,-100.3180,Pedidos nocturnos
+16,Super Del Norte,Minisuper,Av. Del Norte,Av. Del Norte 890,8112345015,Luis Mendoza,MENL820608QRS,15,12000,0,pendiente,2026-04-21,2026-04-25,Centro A,Luis Rodríguez,25.6930,-100.3115,Oportunidad de crecimiento
+17,Farmacia Juárez,Farmacia,Centro,Av. Juárez 345,8112345016,Patricia Vega,VEGP790920TUV,30,8000,1200,pendiente,2026-04-18,2026-04-25,Centro A,Luis Rodríguez,25.6885,-100.3152,Adeudo pendiente
+18,Abarrotes El Sol,Tiendita,Col. Industrial,Calle Industrial 234,8112345017,Raúl Castro,CASR861105WXY,15,5000,0,pendiente,2026-03-12,2026-04-25,Centro A,Luis Rodríguez,25.6905,-100.3138,42 min sin pedido
+19,Minisuper Tecnológico,Minisuper,Fracc. Tec,Blvd. Tecnológico 567,8112345018,Sandra Ortiz,ORTS880425ZAB,15,15000,0,pendiente,2026-04-22,2026-04-26,Centro A,Luis Rodríguez,25.6935,-100.3110,Alta densidad poblacional
+20,Lonchería El Güero,Fonda,Zona Industrial,Av. Industrial 123,8112345019,Héctor Reyes,REYH750830CDE,7,3000,0,pendiente,2026-04-21,2026-04-26,Centro A,Luis Rodríguez,25.6910,-100.3142,Pedidos medianos
+21,Tiendita Barrio Antiguo,Tiendita,Barrio Antiguo,Calle Morelos 45,8112345020,Carmen Díaz,DIAC811220FGH,15,4000,0,pendiente,2026-04-22,2026-04-27,Centro A,Luis Rodríguez,25.6875,-100.3168,Zona turística
+22,Super La Colonia,Minisuper,Col. Mitras,Av. Mitras 678,8112345021,Alberto Núñez,NUNA770315IJK,15,10000,0,pendiente,2026-04-20,2026-04-27,Centro A,Luis Rodríguez,25.6940,-100.3105,Renovar exhibidor
+23,Dulcería La Paloma,Dulcería,Centro,Calle Hidalgo 234,8112345022,Silvia Ramos,RAMS840710LMN,15,6000,0,pendiente,2026-04-19,2026-04-28,Centro A,Luis Rodríguez,25.6890,-100.3155,Nueva oportunidad
+24,Cremería Don Leche,Cremería,Mercado 3,Local 12 Mercado 3,8112345023,Francisco Vargas,VARF721125OPQ,7,3000,0,pendiente,2026-04-21,2026-04-28,Centro A,Luis Rodríguez,25.6880,-100.3160,Compras semanales
+25,Abarrotes y Más,Tiendita,Col. Progreso,Av. Progreso 456,8112345024,Elena Gutiérrez,GUTE790520RST,15,5000,0,pendiente,2026-04-22,2026-04-29,Centro A,Luis Rodríguez,25.6865,-100.3172,Cliente estable
+26,Super Flash MTY,Minisuper,Av. Constitución,Av. Constitución 789,8112345025,Mario Castillo,CASM831015UVW,15,12000,0,pendiente,2026-04-20,2026-04-29,Centro A,Luis Rodríguez,25.6945,-100.3100,Buen potencial
+27,Tacos La Barda,Fonda,Av. Morones Prieto,Av. Morones 123,8112345026,Gabriel Medina,MEDG760625XYZ,7,4000,0,pendiente,2026-04-21,2026-04-30,Centro A,Luis Rodríguez,25.6915,-100.3145,Quincena - Oportunidad
+28,Tienda El Amigo,Tiendita,Col. Independencia,Calle Independencia 345,8112345027,Mónica Silva,SILM880910ABC,15,5000,0,pendiente,2026-04-22,2026-04-30,Centro A,Luis Rodríguez,25.6870,-100.3165,Pagos puntuales
+29,Cremería Cumbres,Cremería,Col. Cumbres,Av. Cumbres 567,8112345028,Javier Herrera,HERJ741205DEF,7,4000,0,pendiente,2026-04-19,2026-05-01,Centro A,Luis Rodríguez,25.6868,-100.3163,Potencial alto
+30,Minisuper La Familia,Minisuper,Col. Del Prado,Blvd. Del Prado 890,8112345029,Beatriz Romero,ROMB820330GHI,15,10000,0,pendiente,2026-04-20,2026-05-01,Centro A,Luis Rodríguez,25.6950,-100.3095,Cliente confiable

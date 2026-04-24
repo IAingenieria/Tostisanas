@@ -1,0 +1,41 @@
+id,numero_pedido,fecha,hora,cliente_id,cliente_nombre,vendedor,ruta,total,cajas,estatus,metodo_pago,cobrado,sincronizado,tiempo_visita_segundos,eficiencia_pct,fotos_completas
+1,P-1001,2026-04-23,08:15,1,Abarrotes Don Roberto,Luis Rodríguez,Centro A,1945.00,11,entregado,credito,false,true,285,95,true
+2,P-1002,2026-04-23,08:42,2,Farmacia San José,Luis Rodríguez,Centro A,2340.00,13,entregado,efectivo,true,true,312,88,true
+3,P-1003,2026-04-23,09:18,3,Fonda Doña Lupita,Luis Rodríguez,Centro A,1680.00,9,entregado,efectivo,true,true,268,98,true
+4,P-1004,2026-04-23,09:52,4,Minisuper El Roble,Luis Rodríguez,Centro A,3420.00,19,entregado,credito,false,true,425,82,true
+5,P-1005,2026-04-23,10:28,5,Papelería Escolar Cruz,Luis Rodríguez,Centro A,1260.00,7,entregado,efectivo,true,true,245,102,true
+6,P-1006,2026-04-23,11:05,6,Tienda Roma,Luis Rodríguez,Centro A,1890.00,10,entregado,credito,false,true,298,92,true
+7,P-1007,2026-04-23,11:38,7,Abarrotes La Esperanza,Luis Rodríguez,Centro A,2100.00,12,entregado,efectivo,true,true,315,87,true
+8,P-1008,2026-04-23,12:15,8,Minisuper Cumbres,Luis Rodríguez,Centro A,3150.00,17,entregado,credito,false,true,385,78,true
+9,P-1009,2026-04-23,13:05,9,Carnicería El Borrego,Luis Rodríguez,Centro A,1575.00,9,entregado,efectivo,true,true,272,94,true
+10,P-1010,2026-04-23,13:42,10,Taquería Los Compadres,Luis Rodríguez,Centro A,2520.00,14,entregado,efectivo,true,true,348,82,true
+11,P-1011,2026-04-23,14:25,11,Super Familiar García,Luis Rodríguez,Centro A,4200.00,23,entregado,credito,false,true,445,72,true
+12,P-1012,2026-04-23,15:10,12,Tienda La Guadalupana,Luis Rodríguez,Centro A,1785.00,10,entregado,efectivo,true,true,288,91,true
+13,P-1013,2026-04-23,15:48,13,Tortillería El Maizal,Luis Rodríguez,Centro A,945.00,5,entregado,efectivo,true,true,195,108,true
+14,P-1014,2026-04-22,08:20,1,Abarrotes Don Roberto,Luis Rodríguez,Centro A,1820.00,10,entregado,credito,false,true,295,92,true
+15,P-1015,2026-04-22,09:05,2,Farmacia San José,Luis Rodríguez,Centro A,2180.00,12,entregado,efectivo,true,true,325,85,true
+16,P-1016,2026-04-22,09:48,3,Fonda Doña Lupita,Luis Rodríguez,Centro A,1540.00,8,entregado,efectivo,true,true,258,96,true
+17,P-1017,2026-04-22,10:32,4,Minisuper El Roble,Luis Rodríguez,Centro A,3280.00,18,entregado,credito,false,true,412,80,true
+18,P-1018,2026-04-22,11:18,5,Papelería Escolar Cruz,Luis Rodríguez,Centro A,1190.00,7,entregado,efectivo,true,true,238,104,true
+19,P-1019,2026-04-22,12:02,6,Tienda Roma,Luis Rodríguez,Centro A,1750.00,10,entregado,credito,false,true,285,92,true
+20,P-1020,2026-04-22,12:45,7,Abarrotes La Esperanza,Luis Rodríguez,Centro A,1980.00,11,entregado,efectivo,true,true,305,88,true
+21,P-1021,2026-04-21,08:30,1,Abarrotes Don Roberto,Luis Rodríguez,Centro A,1895.00,10,entregado,credito,false,true,278,95,true
+22,P-1022,2026-04-21,09:15,2,Farmacia San José,Luis Rodríguez,Centro A,2250.00,12,entregado,efectivo,true,true,318,87,true
+23,P-1023,2026-04-21,10:00,3,Fonda Doña Lupita,Luis Rodríguez,Centro A,1620.00,9,entregado,efectivo,true,true,265,97,true
+24,P-1024,2026-04-21,10:48,4,Minisuper El Roble,Luis Rodríguez,Centro A,3350.00,18,entregado,credito,false,true,428,79,true
+25,P-1025,2026-04-21,11:35,5,Papelería Escolar Cruz,Luis Rodríguez,Centro A,1225.00,7,entregado,efectivo,true,true,242,102,true
+26,P-1026,2026-04-20,08:25,1,Abarrotes Don Roberto,Luis Rodríguez,Centro A,1780.00,10,entregado,credito,false,true,288,93,true
+27,P-1027,2026-04-20,09:12,2,Farmacia San José,Luis Rodríguez,Centro A,2120.00,12,entregado,efectivo,true,true,315,86,true
+28,P-1028,2026-04-20,09:58,3,Fonda Doña Lupita,Luis Rodríguez,Centro A,1580.00,9,entregado,efectivo,true,true,268,96,true
+29,P-1029,2026-04-20,10:45,4,Minisuper El Roble,Luis Rodríguez,Centro A,3180.00,17,entregado,credito,false,true,405,82,true
+30,P-1030,2026-04-20,11:32,5,Papelería Escolar Cruz,Luis Rodríguez,Centro A,1150.00,6,entregado,efectivo,true,true,235,105,true
+31,P-1031,2026-04-19,08:35,1,Abarrotes Don Roberto,Luis Rodríguez,Centro A,1850.00,10,entregado,credito,false,true,292,92,true
+32,P-1032,2026-04-19,09:22,2,Farmacia San José,Luis Rodríguez,Centro A,2280.00,13,entregado,efectivo,true,true,328,84,true
+33,P-1033,2026-04-19,10:08,3,Fonda Doña Lupita,Luis Rodríguez,Centro A,1650.00,9,entregado,efectivo,true,true,272,95,true
+34,P-1034,2026-04-19,10:55,4,Minisuper El Roble,Luis Rodríguez,Centro A,3420.00,19,entregado,credito,false,true,438,77,true
+35,P-1035,2026-04-19,11:42,5,Papelería Escolar Cruz,Luis Rodríguez,Centro A,1280.00,7,entregado,efectivo,true,true,248,100,true
+36,P-1036,2026-04-18,08:28,1,Abarrotes Don Roberto,Luis Rodríguez,Centro A,1920.00,11,entregado,credito,false,true,285,95,true
+37,P-1037,2026-04-18,09:15,2,Farmacia San José,Luis Rodríguez,Centro A,2190.00,12,entregado,efectivo,true,true,322,85,true
+38,P-1038,2026-04-18,10:02,3,Fonda Doña Lupita,Luis Rodríguez,Centro A,1595.00,9,entregado,efectivo,true,true,265,97,true
+39,P-1039,2026-04-18,10:48,4,Minisuper El Roble,Luis Rodríguez,Centro A,3250.00,18,entregado,credito,false,true,418,81,true
+40,P-1040,2026-04-18,11:35,5,Papelería Escolar Cruz,Luis Rodríguez,Centro A,1210.00,7,entregado,efectivo,true,true,240,103,true

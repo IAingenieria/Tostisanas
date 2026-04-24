@@ -1,0 +1,63 @@
+id,producto_id,sku,nombre_producto,stock_actual,stock_minimo,stock_maximo,ubicacion,lote,fecha_entrada,fecha_vencimiento,dias_vencimiento,estatus_fefo,proveedor,costo_unitario
+1,1,TM-001,Tortillas de Maíz Blanco,450,100,800,A-01-01,L20260415,2026-04-15,2026-04-30,7,critico,Molino San Juan,18.50
+2,2,TM-002,Tortillas de Maíz Amarillo,380,100,800,A-01-02,L20260418,2026-04-18,2026-05-03,10,critico,Molino San Juan,18.50
+3,3,TM-003,Tortillas de Maíz Azul,220,80,500,A-01-03,L20260420,2026-04-20,2026-05-05,12,critico,Molino Artesanal,22.00
+4,4,TM-004,Tortillas de Maíz Rojo,180,80,500,A-01-04,L20260420,2026-04-20,2026-05-05,12,critico,Molino Artesanal,22.00
+5,5,TM-005,Tortillas de Maíz Mini,310,100,700,A-01-05,L20260419,2026-04-19,2026-05-04,11,critico,Molino San Juan,16.50
+6,6,TM-006,Tortillas de Maíz Jumbo,270,80,600,A-01-06,L20260419,2026-04-19,2026-05-04,11,critico,Molino San Juan,22.00
+7,7,TM-007,Tortillas de Maíz Orgánico,95,60,400,A-01-07,L20260421,2026-04-21,2026-05-03,10,critico,Orgánicos del Valle,28.00
+8,8,TM-008,Tortillas de Maíz Sin Conservadores,45,40,300,A-01-08,L20260422,2026-04-22,2026-04-29,6,critico,Molino Natural,24.00
+9,9,TH-001,Tortillas de Harina Tradicional,520,120,900,A-02-01,L20260410,2026-04-10,2026-04-30,7,critico,Harinera del Norte,21.00
+10,10,TH-002,Tortillas de Harina Sobaqueras,340,100,700,A-02-02,L20260412,2026-04-12,2026-05-02,9,critico,Harinera del Norte,26.00
+11,11,TH-003,Tortillas de Harina Mini,280,80,600,A-02-03,L20260415,2026-04-15,2026-05-05,12,critico,Harinera del Norte,18.00
+12,12,TH-004,Tortillas de Harina Burrito,410,100,800,A-02-04,L20260413,2026-04-13,2026-05-03,10,critico,Harinera del Norte,24.00
+13,13,TH-005,Tortillas de Harina Integral,190,80,500,A-02-05,L20260416,2026-04-16,2026-05-04,11,critico,Harinera Integral,24.00
+14,14,TH-006,Tortillas de Harina Sin Gluten,85,50,400,A-02-06,L20260420,2026-04-20,2026-05-05,12,critico,Libre de Gluten SA,32.00
+15,15,TH-007,Tortillas de Harina con Espinaca,150,60,450,A-02-07,L20260417,2026-04-17,2026-05-05,12,normal,Harinera Gourmet,26.00
+16,16,TH-008,Tortillas de Harina con Tomate,165,60,450,A-02-08,L20260417,2026-04-17,2026-05-05,12,normal,Harinera Gourmet,26.00
+17,17,BC-001,Tortillas Keto Original,120,40,350,A-03-01,L20260405,2026-04-05,2026-04-30,7,normal,Keto Foods,35.00
+18,18,BC-002,Tortillas Keto con Linaza,95,40,350,A-03-02,L20260406,2026-04-06,2026-05-01,8,normal,Keto Foods,37.00
+19,19,BC-003,Tortillas Proteína Plus,110,40,350,A-03-03,L20260407,2026-04-07,2026-05-02,9,normal,Protein Lab,38.00
+20,20,BC-004,Tortillas Fit con Chía,88,40,350,A-03-04,L20260408,2026-04-08,2026-05-03,10,normal,Keto Foods,37.00
+21,21,BC-005,Tortillas Zero Carb,72,30,300,A-03-05,L20260401,2026-04-01,2026-05-01,8,normal,Zero Carb Inc,42.00
+22,22,BC-006,Tortillas Diabetic Friendly,105,40,350,A-03-06,L20260409,2026-04-09,2026-05-04,11,normal,Diabetic Care,39.00
+23,23,TI-001,Tortillas Integrales de Trigo,240,80,600,A-04-01,L20260410,2026-04-10,2026-04-30,7,normal,Integral Foods,23.00
+24,24,TI-002,Tortillas Integrales de Avena,195,60,500,A-04-02,L20260412,2026-04-12,2026-04-30,7,normal,Integral Foods,26.00
+25,25,TI-003,Tortillas Multigrano,210,70,550,A-04-03,L20260411,2026-04-11,2026-05-01,8,normal,Integral Foods,27.00
+26,26,TI-004,Tortillas de Centeno,165,60,500,A-04-04,L20260413,2026-04-13,2026-05-01,8,normal,Granos Especiales,28.00
+27,27,TI-005,Tortillas de Amaranto,145,50,450,A-04-05,L20260414,2026-04-14,2026-05-02,9,normal,Amaranto Mexicano,30.00
+28,28,TI-006,Tortillas de Quinoa,130,50,450,A-04-06,L20260414,2026-04-14,2026-05-02,9,normal,Quinoa Andina,31.00
+29,29,TI-007,Tortillas de Nopal,98,50,400,A-04-07,L20260418,2026-04-18,2026-05-03,10,normal,Nopal Verde,27.00
+30,30,TI-008,Tortillas de Semillas Mix,175,60,500,A-04-08,L20260415,2026-04-15,2026-05-05,12,normal,Integral Foods,28.00
+31,31,TS-001-30,Tostadas Clásicas,680,200,1200,B-01-01,L20260201,2026-02-01,2026-05-01,8,optimo,Tostadas del Sur,12.00
+32,32,TS-001-50,Tostadas Clásicas,890,250,1500,B-01-02,L20260205,2026-02-05,2026-05-05,12,optimo,Tostadas del Sur,18.00
+33,33,TS-001-90,Tostadas Clásicas,520,150,1000,B-01-03,L20260210,2026-02-10,2026-05-10,17,optimo,Tostadas del Sur,32.00
+34,34,TS-002-30,Tostadas Horneadas,450,150,900,B-01-04,L20260215,2026-02-15,2026-05-15,22,optimo,Tostadas Premium,13.50
+35,35,TS-002-50,Tostadas Horneadas,580,180,1100,B-01-05,L20260218,2026-02-18,2026-05-18,25,optimo,Tostadas Premium,21.00
+36,36,TS-002-90,Tostadas Horneadas,320,120,800,B-01-06,L20260220,2026-02-20,2026-05-20,27,optimo,Tostadas Premium,36.00
+37,37,TS-003-30,Tostadas de Maíz Azul,340,120,800,B-02-01,L20260222,2026-02-22,2026-05-22,29,optimo,Artesanías Azul,15.00
+38,38,TS-003-50,Tostadas de Maíz Azul,420,140,900,B-02-02,L20260225,2026-02-25,2026-05-25,32,optimo,Artesanías Azul,23.00
+39,39,TS-003-90,Tostadas de Maíz Azul,250,100,700,B-02-03,L20260228,2026-02-28,2026-05-28,35,optimo,Artesanías Azul,40.00
+40,40,TS-004-30,Tostadas Charolas,510,160,1000,B-02-04,L20260301,2026-03-01,2026-05-30,37,optimo,Tostadas del Sur,12.50
+41,41,TS-004-50,Tostadas Charolas,640,200,1200,B-02-05,L20260305,2026-03-05,2026-06-03,41,optimo,Tostadas del Sur,19.50
+42,42,TS-004-90,Tostadas Charolas,380,140,900,B-02-06,L20260308,2026-03-08,2026-06-06,44,optimo,Tostadas del Sur,34.00
+43,43,TS-005-30,Tostadas Caseras,290,100,700,B-03-01,L20260310,2026-03-10,2026-05-09,16,normal,Caseras Tradicionales,14.00
+44,44,TS-005-50,Tostadas Caseras,370,120,850,B-03-02,L20260312,2026-03-12,2026-05-11,18,normal,Caseras Tradicionales,22.00
+45,45,TS-005-90,Tostadas Caseras,210,80,600,B-03-03,L20260315,2026-03-15,2026-05-14,21,normal,Caseras Tradicionales,37.00
+46,46,TS-006-30,Tostadas Integrales,260,90,700,B-03-04,L20260318,2026-03-18,2026-06-16,54,optimo,Integral Snacks,15.50
+47,47,TS-006-50,Tostadas Integrales,330,110,850,B-03-05,L20260320,2026-03-20,2026-06-18,56,optimo,Integral Snacks,24.50
+48,48,TS-006-90,Tostadas Integrales,190,70,600,B-03-06,L20260322,2026-03-22,2026-06-20,58,optimo,Integral Snacks,42.00
+49,49,TS-007-30,Tostadas Mini,720,220,1300,B-04-01,L20260325,2026-03-25,2026-06-23,61,optimo,Tostadas del Sur,10.50
+50,50,TS-007-50,Tostadas Mini,850,260,1500,B-04-02,L20260328,2026-03-28,2026-06-26,64,optimo,Tostadas del Sur,16.50
+51,51,TS-007-90,Tostadas Mini,480,160,1000,B-04-03,L20260330,2026-03-30,2026-06-28,66,optimo,Tostadas del Sur,28.00
+52,52,TS-008-30,Tostadas Tostisanas Premium,310,100,750,B-04-04,L20260401,2026-04-01,2026-06-30,68,optimo,Tostisanas Premium,16.50
+53,53,TS-008-50,Tostadas Tostisanas Premium,390,130,900,B-04-05,L20260403,2026-04-03,2026-07-02,70,optimo,Tostisanas Premium,26.50
+54,54,TS-008-90,Tostadas Tostisanas Premium,220,80,650,B-04-06,L20260405,2026-04-05,2026-07-04,72,optimo,Tostisanas Premium,45.00
+55,55,BO-001,Totopos Naturales,540,180,1100,C-01-01,L20260120,2026-01-20,2026-05-19,26,optimo,Botanas del Norte,18.50
+56,56,BO-002,Totopos con Sal,620,200,1200,C-01-02,L20260125,2026-01-25,2026-05-24,31,optimo,Botanas del Norte,18.50
+57,57,BO-003,Totopos con Chile,480,160,1000,C-01-03,L20260128,2026-01-28,2026-05-27,34,optimo,Botanas del Norte,20.00
+58,58,BO-004,Totopos con Limón,510,170,1050,C-01-04,L20260130,2026-01-30,2026-05-29,36,optimo,Botanas del Norte,20.00
+59,59,BO-005,Chicharrones de Harina,380,130,850,C-01-05,L20260205,2026-02-05,2026-05-06,13,normal,Chicharrones SA,14.50
+60,60,BO-006,Chicharrones con Chile,420,140,900,C-01-06,L20260208,2026-02-08,2026-05-09,16,normal,Chicharrones SA,16.00
+61,61,BO-007,Tiras de Tortilla Horneadas,350,120,800,C-01-07,L20260210,2026-02-10,2026-05-11,18,normal,Snacks Saludables,17.50
+62,62,BO-008,Nachos Tostisanas,460,150,950,C-01-08,L20260215,2026-02-15,2026-05-16,23,optimo,Tostisanas Premium,21.00

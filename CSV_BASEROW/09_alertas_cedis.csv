@@ -1,0 +1,13 @@
+id,tipo_alerta,prioridad,titulo,descripcion,producto_id,sku,cliente_id,vendedor_id,fecha_creacion,estatus,accion_recomendada
+1,stock_bajo,alta,Stock crítico - TM-008,Tortillas de Maíz Sin Conservadores con solo 45 unidades (mínimo 40),8,TM-008,null,null,2026-04-23 06:00,activa,Solicitar reabastecimiento urgente
+2,stock_bajo,alta,Stock crítico - TM-007,Tortillas de Maíz Orgánico con 95 unidades (mínimo 60),7,TM-007,null,null,2026-04-23 06:00,activa,Solicitar reabastecimiento urgente
+3,vencimiento,alta,Producto próximo a vencer,TM-008 vence en 6 días (29-Abr),8,TM-008,null,null,2026-04-23 06:00,activa,Priorizar en rutas FEFO
+4,vencimiento,media,Producto próximo a vencer,TM-001 vence en 7 días (30-Abr),1,TM-001,null,null,2026-04-23 06:00,activa,Priorizar en rutas FEFO
+5,vencimiento,media,Producto próximo a vencer,TH-001 vence en 7 días (30-Abr),9,TH-001,null,null,2026-04-23 06:00,activa,Priorizar en rutas FEFO
+6,cliente,media,Cliente sin pedido 42 días,Abarrotes El Sol sin pedido desde 12-Mar,null,null,18,2,2026-04-23 07:00,activa,Visitar y reactivar cliente
+7,adeudo,alta,Adeudo pendiente,Farmacia Juárez con adeudo de $1200,null,null,17,2,2026-04-23 07:00,activa,Gestionar cobro
+8,oportunidad,baja,Oportunidad de venta,Marinela ganó 8pts de share en Farmacia San José,null,null,2,2,2026-04-23 08:00,activa,Proponer exhibidor en próxima visita
+9,rendimiento,media,Vendedor bajo meta,Carlos Martínez al 88% de meta mensual,null,null,null,3,2026-04-23 09:00,activa,Revisar estrategia de venta
+10,stock_bajo,media,Stock bajo - TH-006,Tortillas Sin Gluten con 85 unidades (mínimo 50),14,TH-006,null,null,2026-04-23 10:00,activa,Programar reabastecimiento
+11,stock_bajo,media,Stock bajo - TI-007,Tortillas de Nopal con 98 unidades (mínimo 50),29,TI-007,null,null,2026-04-23 10:00,activa,Programar reabastecimiento
+12,rendimiento,baja,Tiempo promedio alto,Vendedor Carlos M. con 145s promedio (meta 90s),null,null,null,3,2026-04-23 11:00,activa,Capacitación en eficiencia

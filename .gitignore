@@ -1,0 +1,63 @@
+# ══════════════════════════════════════════════════════════
+# GITIGNORE - TOSTISANAS
+# Protección de información sensible
+# ══════════════════════════════════════════════════════════
+
+# ── ARCHIVOS DE CONFIGURACIÓN SENSIBLES ──────────────────
+baserow_config.js
+**/baserow_config.js
+.env
+.env.local
+.env.production
+config.js
+secrets.js
+
+# ── TOKENS Y CREDENCIALES ────────────────────────────────
+**/api_token*
+**/credentials*
+**/*token*.txt
+**/*password*.txt
+**/*secret*.txt
+
+# ── ARCHIVOS DE PRUEBA CON DATOS REALES ──────────────────
+test_baserow.html
+**/test_*.html
+
+# ── LOGS Y TEMPORALES ─────────────────────────────────────
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# ── NODE MODULES (si se usa npm) ──────────────────────────
+node_modules/
+package-lock.json
+yarn.lock
+
+# ── ARCHIVOS DE IDE ───────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── ARCHIVOS DE SISTEMA ───────────────────────────────────
+.DS_Store
+desktop.ini
+*.lnk
+
+# ── BACKUPS ───────────────────────────────────────────────
+*.bak
+*.backup
+*_backup.*
+*_old.*
+
+# ── ARCHIVOS SENSIBLES ESPECÍFICOS ───────────────────────
+# Estos archivos contienen tokens o datos sensibles
+INTEGRACION_BASEROW.md
+baserow_config.js
+test_baserow.html
+
+# ── MANTENER ESTRUCTURA DE CARPETAS ──────────────────────
+!.gitkeep
